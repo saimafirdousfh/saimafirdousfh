@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saima Firdoush
-- 👀 I’m coding and web devlopment
+- 👀 I’m intrested in coding and web devlopment
 - 🌱 I’m currently learning python
 - �
 - 📫 you can reach me via mail -saima.afroj.16@gmail.com
