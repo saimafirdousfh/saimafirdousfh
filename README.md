@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saima Firdoush
 - 👀 I’m intrested in coding and web devlopment
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++ oops
 - �
 - 📫 you can reach me via mail -saima.afroj.16@gmail.com
 
