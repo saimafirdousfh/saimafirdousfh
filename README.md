@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saima Firdoush
-- 👀 I’m intrested in coding and web devlopment
-- 🌱 I’m currently learning c++ oops
-- �
+- 👀 Currently I'm persuing Masters In computer science with speciatialisation in Data science 
+- 🌱 Loves to juggle between DSA and ML
+- � ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - 📫 you can reach me via mail -saima.afroj.16@gmail.com
 
 <!---
